@@ -1,3 +1,4 @@
+// 注意：本js与其他封装XMLHttpRequest的插件可能会产生冲突，如mock.js
 class MyUploadAdapter {
     constructor( loader ) {
         // 要在上载期间使用的文件加载器实例
